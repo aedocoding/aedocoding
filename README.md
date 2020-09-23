@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on developing tutorials for coding a backend in Knex + Node.js
+- 🔭 I’m currently working on developing tutorials for coding a backend using Knex.js/Express/Node.js
 - 🌱 I’m currently learning how to apply algorithms and data structures to coding challenges (again)
 - 💬 Ask me if I'm interested in any job opportunities you might know of!
 - 📫 How to reach me: aedocoding@gmail.com

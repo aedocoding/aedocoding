@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a full stack travel log web application. I was inspired by Spotify's yearly wrapped feature to try to make something similar using a user's travel history - check it out below!
-- 💬 Ask me if I'm interested in any job opportunities you might know of!
+- 💬 Ask me if I'm interested in any job opportunities you might know of! Check out my portfolio to get a better idea of my work/skills => www.allenedo.com
 - 📫 How to reach me: aedocoding@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once ate 30 hard-shell tacos from Del Taco in one sitting

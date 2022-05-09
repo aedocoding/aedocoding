@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 Working on a crypto/NFT project in my spare time.
 - 💬 Currently working Full Time at Alpha Medical. Check out my portfolio to get a better idea of my work/skills => www.allenedo.com
 - 📫 How to reach me: aedocoding@gmail.com
 - 😄 Pronouns: He/Him

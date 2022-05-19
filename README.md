@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Currently working Full Time at Alpha Medical. Check out my portfolio to get a better idea of my work/skills => www.allenedo.com
+- 💬 Currently working Full Time at UnitedMasters. Check out my portfolio to get a better idea of my work/skills => www.allenedo.com
 - 📫 How to reach me: aedocoding@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once ate 30 hard-shell tacos from Del Taco in one sitting

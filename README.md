@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Currently working at UnitedMasters.
+- 💬 Currently searching for my next opportunity.
 - 📫 How to reach me: aedocoding@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once ate 30 hard-shell tacos from Del Taco in one sitting
